@@ -148,7 +148,7 @@ module.exports = {
     'neutrino-middleware-styleguidist',
     ['@neutrinojs/react', {
       style: {
-        extract: !buildingStyleguide
+        extract: buildingStyleguide ? false : {}
       }
     }]
   ]
