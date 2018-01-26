@@ -155,8 +155,8 @@ module.exports = {
 };
 ```
 
-[npm-image]: https://img.shields.io/npm/v/@neutrinojs/react-components.svg
-[npm-downloads]: https://img.shields.io/npm/dt/@neutrinojs/react-components.svg
-[npm-url]: https://npmjs.org/package/@neutrinojs/react-components
+[npm-image]: https://img.shields.io/npm/v/neutrino-middleware-styleguidist.svg
+[npm-downloads]: https://img.shields.io/npm/dt/neutrino-middleware-styleguidist.svg
+[npm-url]: https://npmjs.org/package/neutrino-middleware-styleguidist
 [spectrum-image]: https://withspectrum.github.io/badge/badge.svg
 [spectrum-url]: https://spectrum.chat/neutrino
