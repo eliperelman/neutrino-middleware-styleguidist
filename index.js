@@ -56,7 +56,7 @@ module.exports = (neutrino, opts = {}) => {
           }
         } else {
           if (!neutrino.options.args.quiet) {
-            spinner.succeed(`Styleguidist server running at ${config.serverHost}:${config.serverPort}`);
+            spinner.succeed(`Styleguidist server running at http://${config.serverHost}:${config.serverPort}`);
           }
 
           process.on('SIGINT', () => process.exit(0));
